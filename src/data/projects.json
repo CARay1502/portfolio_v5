@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Useless Weight Predictor",
-        "description": "An 'AI' powered, totally useless website that uses your webcam to predict your weight.",
+        "description": "An AI powered, totally useless website that uses your webcam to predict your weight.",
         "image": "/weightPredictor.png",
         "badges": ["Typescript, Nextjs"],
         "tag": "Newest"
