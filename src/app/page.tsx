@@ -36,7 +36,7 @@ export default function Home() {
           
           <div className="card shadow-xl w-full lg:w-1/2 mt-6 lg:mt-0 lg:ml-6 ">
             <div className="card-body text-center lg:text-left">
-              <h1 className="text-3xl sm:text-5xl font-bold mt-4 lg:ml-2">Hey, I'm Christian ✌️</h1>
+              <h1 className="text-3xl sm:text-5xl font-bold mt-4 lg:ml-2">Hey, I&#39;m Christian ✌️</h1>
               <p className="py-4  text-xl sm:py-6 ">Computer Science Student and Content Creator.</p>
 
               {/* stats section -> will make automated in the future. */}
