@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, synthwave;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: hsl(19, 74%, 53%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --hover: #ccc;
+  }
+}
+
+

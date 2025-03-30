@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Useless Weight Predictor",
+        "description": "An 'AI' powered, totally useless website that uses your webcam to predict your weight.",
+        "image": "/weightPredictor.png",
+        "badges": ["Typescript, Nextjs"],
+        "tag": "Newest"
+    },
+    {
+        "id": 2,
+        "title": "Java Email App",
+        "description": "This project is a beginner attempt at creating a Email Client App to read and compose emails from the users email inbox.",
+        "image": "/javaemailapp.png",
+        "badges": ["Java, Javax"],
+        "tag": null
+    },
+    {
+        "id": 3,
+        "title": "Portfolio_v5",
+        "description": "The project behind this very website. First time using Typescript combined with Nextjs.",
+        "image": "/portfolio_v5.png",
+        "badges": ["Typescript, Nextjs"],
+        "tag": ""
+    }
+]
