@@ -1,12 +1,12 @@
-import Script from "next/script";
+import Link from "next/link";
 
 export default function BuyMeACoffee() {
     return (
         <div>
             
-            <a className="bmc-button btn btn-accent text-lg font-bold btn-block hover:btn-neutral" href="https://www.buymeacoffee.com/chris.is.coding">
+            <Link className="bmc-button btn btn-accent text-lg font-bold btn-block hover:btn-neutral" href="https://www.buymeacoffee.com/chris.is.coding">
                 Buy Me a Coffee
-            </a>
+            </Link>
         </div>
     );
 }
