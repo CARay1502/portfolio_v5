@@ -1,7 +1,6 @@
 "use client";
 import "./globals.css";
 import Navbar from "./components/navbar";
-import SocialIcons from "./components/SocialIcons";
 import { usePathname } from "next/navigation";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
