@@ -2,6 +2,7 @@
 import "./globals.css";
 import Navbar from "./components/navbar";
 import { usePathname } from "next/navigation";
+import { Analytics } from "@vercel/analytics/next"
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   const pathname = usePathname();
@@ -14,7 +15,10 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         {/* this disables this shit (navbar component) from popping up on the links.tsx */}
         { pathname !== "/links" && <Navbar /> }
 
-        <main>{children}</main>
+        <main>
+          {children}
+          <Analytics/>
+        </main>
 
         <footer className="footer sm:footer-horizontal footer-center text-base-content p-4">
           <aside>
