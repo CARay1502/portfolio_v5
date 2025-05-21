@@ -53,16 +53,16 @@ Then go to http://localhost:3000 in your browser.
 
 - Vercel – for deployment
 
-## 🗺️ Roadmap
-Add individual subpages for each project
+## 🗺️ Roadmap (future updates)
+⭕ Add simple backend + administrator dashboard
 
-Integrate a blog section or dev notes
+⭕ Integrate a blog section or dev notes
 
-Host "useless but fun" micro-sites under custom routes or subdomains
+🟠 [WIP] Host "useless but fun" micro-sites under custom routes or subdomains
 
-Add analytics for portfolio visits
+🟢 Add analytics for portfolio visits
 
-Improve accessibility and dark mode support
+⭕ Improve accessibility and dark mode support
 
 ## Contributing
 This is a personal project, so contributions aren’t currently open. However, feel free to fork the repo or use parts of the design for inspiration—just credit when appropriate.
