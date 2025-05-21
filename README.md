@@ -4,7 +4,7 @@ This is the fifth iteration of my personal portfolio, designed to showcase who I
 
 ## 🔗 Live Site
 
-Check it out live: [https://caray1502.vercel.app](https://caray1502.vercel.app)
+Check it out live: [https://christianray.me](https://christianray.me)
 
 ## 📌 Features
 
