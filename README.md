@@ -54,7 +54,9 @@ Then go to http://localhost:3000 in your browser.
 - Vercel – for deployment
 
 ## 🗺️ Roadmap (future updates)
-⭕ Add simple backend + administrator dashboard
+⭕ Add simple backend/administrator dashboard
+
+⭕ Integrate backend to upload/update projects live from Github
 
 ⭕ Integrate a blog section or dev notes
 
