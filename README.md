@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Personal Portfolio – Version 5
 
-## Getting Started
+This is the fifth iteration of my personal portfolio, designed to showcase who I am, what I build, and where to find me online. It's built using **Next.js** and styled with **TailwindCSS**, and it's hosted seamlessly on **Vercel** for fast, reliable performance.
 
-First, run the development server:
+## 🔗 Live Site
+
+Check it out live: [https://caray1502.vercel.app](https://caray1502.vercel.app)
+
+## 📌 Features
+
+- **Modern Tech Stack**: Built with [Next.js](https://nextjs.org/) and styled using [TailwindCSS](https://tailwindcss.com/) for a responsive and sleek UI.
+- **Custom Links Page**: A `/links` page replaces third-party tools like Linktree, giving me full control over my branding.
+- **Project Showcases**: Clean and simple project section to highlight what I’m working on.
+- **Social Connections**: Easily access my social platforms through the homepage or `/links`.
+- **Fast & Reliable Hosting**: Deployed on [Vercel](https://vercel.com/) for continuous deployment and fast global delivery.
+- **Future-Proof**: The site will evolve to host a mix of **useless/fun websites** and genuinely **useful web apps** I build along the way.
+
+## 📁 Folder Structure
+
+portfolio_v5/
+├── components/ # Reusable UI components
+├── pages/ # Next.js routing
+│ ├── index.tsx # Main homepage
+│ └── links.tsx # Social links page
+├── public/ # Static assets
+├── styles/ # Tailwind + global styles
+└── ...
+
+
+## 🚀 Getting Started
+
+If you’d like to run this locally:
 
 ```bash
+# Clone the repo
+git clone https://github.com/CARay1502/portfolio_v5.git
+
+# Navigate into the folder
+cd portfolio_v5
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Then go to http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##🛠️ Built With
+- Next.js
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- TailwindCSS
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Vercel – for deployment
 
-## Learn More
+##🗺️ Roadmap
+Add individual subpages for each project
 
-To learn more about Next.js, take a look at the following resources:
+Integrate a blog section or dev notes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Host "useless but fun" micro-sites under custom routes or subdomains
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Add analytics for portfolio visits
 
-## Deploy on Vercel
+Improve accessibility and dark mode support
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributing
+This is a personal project, so contributions aren’t currently open. However, feel free to fork the repo or use parts of the design for inspiration—just credit when appropriate.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##📬 Contact
+Want to connect or collaborate? Check out my links page for socials and contact info.
