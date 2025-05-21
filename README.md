@@ -16,7 +16,7 @@ Check it out live: [https://christianray.me](https://christianray.me)
 - **Future-Proof**: The site will evolve to host a mix of **useless/fun websites** and genuinely **useful web apps** I build along the way.
 
 ## 📁 Folder Structure
-
+```
 portfolio_v5/
 ├── components/ # Reusable UI components
 ├── pages/ # Next.js routing
@@ -25,7 +25,7 @@ portfolio_v5/
 ├── public/ # Static assets
 ├── styles/ # Tailwind + global styles
 └── ...
-
+```
 
 ## 🚀 Getting Started
 
