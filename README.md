@@ -46,14 +46,14 @@ npm run dev
 ```
 Then go to http://localhost:3000 in your browser.
 
-##🛠️ Built With
+## 🛠️ Built With
 - Next.js
 
 - TailwindCSS
 
 - Vercel – for deployment
 
-##🗺️ Roadmap
+## 🗺️ Roadmap
 Add individual subpages for each project
 
 Integrate a blog section or dev notes
